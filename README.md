@@ -1,4 +1,3 @@
-# paulas-choice-consumer-insights
 # Paula's Choice Consumer Insights — Xiaohongshu NLP Analysis
 
 Collected and analysed 118 Xiaohongshu posts and 1,914 comments 
